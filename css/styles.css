@@ -1,3 +1,19 @@
 #drinks, #under-21 {
   display: none;
 }
+
+.box {
+  color: aquamarine;
+  background-color: bisque;
+  border: rgb(5, 5, 5);
+  border-style: double;
+  border-width: 5px;
+}
+
+.box2 {
+  color: rgb(223, 15, 84);
+  background-color: bisque;
+  border: rgb(5, 5, 5);
+  border-style: double;
+  border-width: 5px;
+}
